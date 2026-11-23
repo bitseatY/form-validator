@@ -69,3 +69,15 @@ button{
 button:hover{
     background-color:rgb(142, 142, 218) ;
 }
+.form-group.error input{
+    border-color: rgb(235, 68, 68);
+
+}
+.form-group.success input{
+    border-color: rgb(140, 243, 146);
+
+}
+.form-group.error small{
+    visibility: visible;
+    color:rgb(233, 57, 57);
+}
